@@ -1,7 +1,4 @@
 # Customer-Spending-Patterns-for-Walmart
-Analyzed Walmart’s customer spending patterns for transactions to uncover purchase trends, seasonal behaviors, and high-value segments. Delivered actionable insights to optimize pricing, promotions, and inventory strategies, helping drive data-informed decisions and improve overall profitability
-
-# Customer-Spending-Patterns-for-Walmart
 Comprehensive analysis of customer purchase behavior, with a specific focus on purchase amounts, in relation to customer gender during the Black Friday sales event at Walmart Inc. This study aims to provide valuable insights that can assist the management team at Walmart Inc. in making data-driven decisions.
 
 ## Dataset
